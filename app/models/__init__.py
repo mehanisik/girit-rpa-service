@@ -1,3 +1,2 @@
-# app/models/__init__.py
 from .bot_model import BotConfiguration
 from .job_model import Job, JobLog

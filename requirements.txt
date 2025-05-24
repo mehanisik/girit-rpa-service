@@ -1,6 +1,9 @@
 Flask
 Flask-SQLAlchemy
-Flask-Migrate 
+Flask-Marshmallow
+Flask-Migrate
 psycopg2-binary
 python-dotenv
 Flask-Cors
+celery[redis]
+Werkzeug
